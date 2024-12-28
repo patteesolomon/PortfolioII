@@ -3,7 +3,7 @@ from scipy.special import softmax
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 import taipy.gui.builder as tgb
-from taipy.gui import Gui, notify
+from taipy.gui import Gui, notify 
 
 # Model setup
 MODEL = "cardiffnlp/twitter-roberta-base-sentiment"

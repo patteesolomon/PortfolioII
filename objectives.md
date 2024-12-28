@@ -8,5 +8,7 @@ leetcode.com python qs do some medium and hard ones
 
 make a project that interacts with an api (filter your json output)
 
-put it on git
+include ai for a good usage
+
+put it on git  done
 

@@ -1,7 +1,7 @@
 from taipy.gui import Gui
 
 if __name__ == "__main__":
-    text = "Original text"
+    text = "input the json or setup here ---->"
 
     page = """
 # Getting started with Taipy GUI
